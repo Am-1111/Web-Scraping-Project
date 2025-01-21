@@ -9,7 +9,7 @@ Features
 Requirements
 You need to install the following Python libraries:
 
-pip install pandas requests beautifulsoup4
+pip install pandas ,requests,  beautifulsoup4
 
 How to Run
 Open the Jupyter Notebook/Google Collab (.ipynb).

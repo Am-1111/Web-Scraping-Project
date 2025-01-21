@@ -21,6 +21,6 @@ Run each cell step by step.
 The extracted data will be saved as a CSV file.
 
 ## Project Files
-`Scraping a Table from a Website.ipynb` → Jupyter Notebook / Google Colab with the code
-`requirements.txt` → List of required Python libraries
-`README.md` → Project description
+- `Scraping a Table from a Website.ipynb` → Jupyter Notebook / Google Colab with the code
+- `requirements.txt` → List of required Python libraries
+- `README.md` → Project description

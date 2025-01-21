@@ -1,7 +1,5 @@
 # Web Scraping Project
 
-![Web Scraping Image](https://zenscrape.com/why-python-is-the-ultimate-tool-for-web-scraping/)
-
 This project extracts a table from a website using Python and saves the data in a structured format.
 
 ## Features

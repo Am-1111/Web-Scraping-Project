@@ -1,5 +1,7 @@
 # Web Scraping Project
 
+![Web Scraping Image](https://github.com/Am-1111/Web-Scraping-Project/blob/main/Python-Web-Scraping.jpg)
+
 This project extracts a table from a website using Python and saves the data in a structured format.
 
 ## Features
